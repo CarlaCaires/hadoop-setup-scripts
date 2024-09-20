@@ -1,17 +1,13 @@
 # hadoop-setup-scripts
 Scripts para instalação e configuração do Hadoop
-# Hadoop Project
+# Hadoop Setup Scripts
 
-## Description
+Este repositório contém scripts para a instalação e configuração do Hadoop.
 
-Este repositório contém o código-fonte e scripts para o projeto de implementação de Hadoop e análise de dados.
+## Scripts
 
-## Estrutura do Repositório
-
-- **/scripts**: Scripts para a instalação do Hadoop e configuração do HDFS.
-- **/mapreduce**: Código-fonte do exemplo de job MapReduce.
-- **/data**: Arquivos de exemplo para teste.
-- **/docs**: Documentação do projeto.
+- `install-hadoop.sh`: Script para instalação do Hadoop.
+- `setup-hdfs.sh`: Script para configuração do HDFS.
 
 ## Como Executar
 
