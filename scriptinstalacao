@@ -1,1 +1,6 @@
+/hadoop-setup-scripts
+    /scripts
+        install-hadoop.sh
+        setup-hdfs.sh
+    README.md
 
